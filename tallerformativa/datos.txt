@@ -1,0 +1,3 @@
+name: admin
+cedula: admin123
+contraseña:12345678
